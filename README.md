@@ -19,8 +19,10 @@ com geração de respostas via LLM (Groq - LLaMA 3.1).
 
 ## ▶️ Como executar
 1. Abra o arquivo `.ipynb` no Google Colab
-2. Configure sua chave da API do Groq nos Secrets do Colab (`GROQ_API_KEY`)
-3. Execute as células em ordem
+2. Importe o documento oficial do tcc cão radar que está no repositório na pasta raiz do Google Colab:
+ <img width="554" height="484" alt="image" src="https://github.com/user-attachments/assets/7a0e49f4-0d91-4204-9c73-adce5a8851ec" />
+
+4. Execute as células em ordem
 
 ## 👥 Integrantes
 - Douglas Ferreira Primo
